@@ -1,7 +1,9 @@
+#!/bin/bash
+
 #include <stdio.h>
 /**
  * main - prints the string
- * Return Always 0
+ * Return Always 0 (Success)
  */
 int main(void)
 {
