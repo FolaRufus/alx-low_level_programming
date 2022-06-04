@@ -1,12 +1,8 @@
-#include <stdio.h>
-#include <unistd.h>
-
+nclude <unistd.h>
 /**
- * main - prints "and that piece of art is useful"
- *  - Dora Korpar, 2015-10-19",
- *  Return: Always 1 (Success)
+ * main - Entry point
+ * Return: Always 1 (Success0
  */
-
 int main(void)
 {
 	char str1[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
