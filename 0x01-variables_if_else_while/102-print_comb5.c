@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /*
-* main - prints all possible combinations of two-digit numbers
-* Description: using the main function,
-* this program prints "two-digits from 0-99, separated by a comma
-* followed by a space"
-* Return: Always 0 (Success)
+* main - prints all possible combinations of two-digit numbers,
+* ranging from 0-99, separated by a comma followed by a space.
+*
+* Return: Always 0 (Success).
 */
 int main(void)
 {
